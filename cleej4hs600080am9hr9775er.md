@@ -152,3 +152,7 @@ $ find . -size +1k -size -50k
 The `find` command is a powerful and flexible tool for searching and identifying files within a specific size range on a computer or file system. By using the `-size` option in combination with other options such as `-type` and specify a range of file sizes, and users can quickly and easily search for files that meet their specific needs. This can be particularly useful for managing disk space, identifying large or small files, or searching for specific types of files. While the syntax for using the `find` command can be complex, with a bit of practice, it can become a valuable tool for file management and organization, you can also check the man page of the find command.
 
 That's all! Thank you for getting this far. I hope you find this article useful. If you did find this article valuable.
+
+Toss us a follow for more amazing articles on Linux, Networking etc
+
+And be sure to share with other Linux folks who you think it might be useful to them.
